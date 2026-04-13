@@ -5,6 +5,8 @@ peripherals like OLED displays, servo motors, sensors and more.
 
 ## Peripherals
 
-- [LCD](./LCD) - LCD display examples
-- [OLED](./OLED) - OLED display code & address finder
-- [SERVO](./SERVO) - Servo motor control
+| Peripheral | Description |
+|------------|-------------|
+| [LCD](./LCD) | LCD display examples |
+| [OLED](./OLED) | OLED display code & address finder |
+| [SERVO](./SERVO) | Servo motor control |
